@@ -12,7 +12,7 @@ public class ConexaoDB {
             Connection connection = DriverManager // necessário porque getConnect lança uma exception checked
                 .getConnection("jdbc:mysql://localhost:3306/byte_bank?user=root");
 
-
+            System.out.println("recuperando a conexão");
 
             connection.close();
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eb1b3a3-77bb-4e68-988c-532b46ebc3f7" name="Changes" comment="" />
+    <list default="true" id="0eb1b3a3-77bb-4e68-988c-532b46ebc3f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/ConexaoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/ConexaoDB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +90,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680285611456</updated>
     </task>
+    <task id="LOCAL-00001" summary="adicionando ConexaoDB, testando e atualizando .gitignore">
+      <created>1680313395902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680313395902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adicionando ConexaoDB, testando e atualizando .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando ConexaoDB, testando e atualizando .gitignore" />
   </component>
 </project>
